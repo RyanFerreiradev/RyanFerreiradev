@@ -7,7 +7,7 @@ Me chamo Ryan Ferreira da Silva, tenho 21 anos, sou do interior de São Paulo. A
 <img 
     align="left" 
     alt="Java" 
-    title="Java"
+    title="Dev"
     width="30px" 
     style="padding-right: 10px;" 
     src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/devicon/devicon-original.svg"
@@ -25,7 +25,7 @@ Me chamo Ryan Ferreira da Silva, tenho 21 anos, sou do interior de São Paulo. A
 <img 
     align="left" 
     alt="GoLang" 
-    title="GoLnag"
+    title="GoLang"
     width="30px" 
     style="padding-right: 10px;" 
     src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/go/go-original.svg" 
@@ -33,12 +33,30 @@ Me chamo Ryan Ferreira da Silva, tenho 21 anos, sou do interior de São Paulo. A
 
 <img 
     align="left" 
-    alt="React"
-    title="React" 
+    alt="Docker" 
+    title="Docker"
     width="30px" 
     style="padding-right: 10px;" 
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/react/react-original.svg" 
+    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/docker/docker-original.svg"
 />
+<img 
+    align="left" 
+    alt="Kubernetes" 
+    title="Kubernetes"
+    width="30px" 
+    style="padding-right: 10px;" 
+    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/kubernetes/kubernetes-original.svg"
+/>
+
+<img 
+    align="left" 
+    alt="TerraForm" 
+    title="Terraform"
+    width="30px" 
+    style="padding-right: 10px;" 
+    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/terraform/terraform-original.svg"
+/>
+
 <img 
     align="left" 
     alt="Bootstrap"
@@ -46,6 +64,23 @@ Me chamo Ryan Ferreira da Silva, tenho 21 anos, sou do interior de São Paulo. A
     width="30px" 
     style="padding-right: 10px;" 
     src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/bootstrap/bootstrap-original.svg" 
+/>
+
+<img 
+    align="left" 
+    alt="GoLang" 
+    title="GoLnag"
+    width="30px" 
+    style="padding-right: 10px;" 
+    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/go/go-original.svg" 
+/>
+<img 
+    align="left" 
+    alt="MySql" 
+    title="MySql"
+    width="30px" 
+    style="padding-right: 10px;" 
+    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/mysql/mysql-original.svg"
 />
 
 
@@ -58,3 +93,11 @@ Me chamo Ryan Ferreira da Silva, tenho 21 anos, sou do interior de São Paulo. A
     src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/git/git-original.svg" 
 />
 
+<img 
+    align="left" 
+    alt="Linux" 
+    title="Linux"
+    width="30px" 
+    style="padding-right: 10px;" 
+    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/linux/linux-original.svg"
+/>
