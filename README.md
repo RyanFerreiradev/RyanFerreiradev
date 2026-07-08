@@ -4,6 +4,14 @@
 Me chamo Ryan Ferreira da Silva, tenho 21 anos, sou do interior de São Paulo. Atualmente estou cursando Engenharia de Software na Uninter. Desde cedo sou um apaixonado em tecnologia e jogos, no momento estou a procura do primeiro emprego como DEV.
 
 ### 🤖 Linguagens e Tecnologias
+<img 
+    align="left" 
+    alt="Java" 
+    title="Java"
+    width="30px" 
+    style="padding-right: 10px;" 
+    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/devicon/devicon-original.svg"
+/>
 
 <img 
     align="left" 
@@ -39,22 +47,8 @@ Me chamo Ryan Ferreira da Silva, tenho 21 anos, sou do interior de São Paulo. A
     style="padding-right: 10px;" 
     src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/bootstrap/bootstrap-original.svg" 
 />
-<img 
-    align="left" 
-    alt="SASS" 
-    title="SASS"
-    width="30px" 
-    style="padding-right: 10px;" 
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/sass/sass-original.svg" 
-/>
-<img 
-    align="left" 
-    alt="PHP" 
-    title="PHP"
-    width="30px" 
-    style="padding-right: 10px;" 
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/php/php-original.svg" 
-/>
+
+
 <img 
     align="left" 
     alt="Git" 
