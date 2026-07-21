@@ -8,7 +8,7 @@ Me chamo Ryan Ferreira da Silva, tenho 21 anos, sou do interior de São Paulo. A
 
 
 📫 Contato:
-° Email: Ryanferreira.dev@outlook.com
+° Email: Ryanferreira.dev@outlook.com /n
 ° LinkedIn: linkedin.com/in/ryanferreiradev
 
 ### 🤖 Linguagens e Tecnologias
