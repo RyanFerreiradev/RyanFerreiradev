@@ -18,7 +18,7 @@ Me chamo Ryan Ferreira da Silva, tenho 21 anos, sou do interior de São Paulo. A
 
 
 
-• linkedin.com/in/ryanferreiradev
+• www.linkedin.com/in/ryanferreiradev
 
 
 
