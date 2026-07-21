@@ -1,7 +1,7 @@
 # Ryan Ferreira
 **`Desenvoledor BackEnd`**
 
-Me chamo Ryan Ferreira da Silva, tenho 21 anos, sou do interior de São Paulo. Atualmente estou cursando Engenharia de Software na Uninter. Desde cedo sou um apaixonado em tecnologia e jogos, no momento estou a procura do primeiro emprego como DEV. <img title="Dev" width= "20px" style="padding-right: 10px;"  src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/devicon/devicon-original.svg" /> <br>
+Me chamo Ryan Ferreira da Silva, tenho 21 anos, sou do interior de São Paulo. Atualmente estou cursando Engenharia de Software na Uninter. Desde cedo sou um apaixonado em tecnologia e jogos, no momento estou a procura do primeiro emprego como DEV. <img title="Dev" width= "20px" style="padding-right: 10px;"  src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/devicon/devicon-plain.svg" /> <br>
 
 
 🚀 Portfólio:<br>
