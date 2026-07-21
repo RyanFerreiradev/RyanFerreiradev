@@ -3,10 +3,10 @@
 
 # Olá, eu sou Ryan 👋
 
-💻 Desenvolvedor Back-End em início de jornada  
+👨‍💻 Desenvolvedor Back-End em início de jornada  
 🚀 Explorando Java, APIs, bancos de dados e desenvolvimento de sistemas  
-📚 Sempre aprendendo e evoluindo na área de tecnologia <br>
-👨‍💻 Engenharia de software 3/10 <br>
+📈 Sempre aprendendo e evoluindo na área de tecnologia <br>
+⚙️Engenharia de software 3/10 <br>
 
 
 
