@@ -5,7 +5,7 @@ Me chamo Ryan Ferreira da Silva, tenho 21 anos, sou do interior de São Paulo. A
 
 
 🚀 Portfólio:<br>
-👉 www.portifolio.ryanferreiradev.workers.dev
+👉 portifolio.ryanferreiradev.workers.dev
 
 📫 Contato:<br>
 • Ryanferreira.dev@outlook.com<br>
