@@ -2,6 +2,10 @@
 **`Desenvoledor FullStack`**
 
 Me chamo Ryan Ferreira da Silva, tenho 21 anos, sou do interior de São Paulo. Atualmente estou cursando Engenharia de Software na Uninter. Desde cedo sou um apaixonado em tecnologia e jogos, no momento estou a procura do primeiro emprego como DEV.
+
+
+
+
 🚀 Portfólio:
 👉 https://portifolioryan.f4ntas7.workers.dev/
 
