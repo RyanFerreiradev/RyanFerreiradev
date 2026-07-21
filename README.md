@@ -3,10 +3,11 @@
 
 # Olá, eu sou Ryan 👋
 
-🎯 21 anos | Back-End Developer  
-☕ Estudando Java e desenvolvimento de aplicações  
-🛠️ Interessado em tecnologia, sistemas e boas práticas de programação  
-🚀 Construindo minha jornada como desenvolvedor <img title="Dev" width= "20px" style="padding-right: 10px;"  src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/devicon/devicon-plain.svg" /> <br>
+💻 Desenvolvedor Back-End em início de jornada  
+🚀 Explorando Java, APIs, bancos de dados e desenvolvimento de sistemas  
+📚 Sempre aprendendo e evoluindo na área de tecnologia
+👨‍💻 Engenharia de software 3/10 <br>
+
 
 
 🚀 Portfólio:<br>
