@@ -14,6 +14,10 @@ Me chamo Ryan Ferreira da Silva, tenho 21 anos, sou do interior de São Paulo. A
 
 <a/>
 
+
+<hr> </hr>
+
+
 ### 🤖 Linguagens e Tecnologias
 
 <img 
