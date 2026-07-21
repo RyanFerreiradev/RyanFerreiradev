@@ -1,26 +1,15 @@
 # Ryan Ferreira
-**`Desenvoledor FullStack`**
+**`Desenvoledor BackEnd`**
 
-Me chamo Ryan Ferreira da Silva, tenho 21 anos, sou do interior de São Paulo. Atualmente estou cursando Engenharia de Software na Uninter. Desde cedo sou um apaixonado em tecnologia e jogos, no momento estou a procura do primeiro emprego como DEV.
-
-
+Me chamo Ryan Ferreira da Silva, tenho 21 anos, sou do interior de São Paulo. Atualmente estou cursando Engenharia de Software na Uninter. Desde cedo sou um apaixonado em tecnologia e jogos, no momento estou a procura do primeiro emprego como DEV. <br>
 
 
-🚀 Portfólio:
-👉 https://portifolioryan.f4ntas7.workers.dev/
+🚀 Portfólio:<br>
+👉 https://portifolioryan.f4ntas7.workers.dev/br>
 
-📫 Contato:
-
-
-
-
-
-
-• Ryanferreira.dev@outlook.com
-
-
-
-• www.linkedin.com/in/ryanferreiradev
+📫 Contato:<br>
+• Ryanferreira.dev@outlook.com<br>
+• www.linkedin.com/in/ryanferreiradev<br>
 
 
 <a/>
