@@ -84,7 +84,7 @@ Me chamo Ryan Ferreira da Silva, tenho 21 anos, sou do interior de São Paulo. A
     title="MySql"
     width="30px" 
     style="padding-right: 10px;" 
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/mysql/mysql-original-wordmark.svg"
+    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/mysql/mysql-original.svg"
 />
 
 
