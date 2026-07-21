@@ -32,7 +32,7 @@ Me chamo Ryan Ferreira da Silva, tenho 21 anos, sou do interior de São Paulo. A
     style="padding-right: 10px;" 
     src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/java/java-original-wordmark.svg"
 />
-
+<!--
 <img 
     align="left" 
     alt="GoLang" 
@@ -66,7 +66,7 @@ Me chamo Ryan Ferreira da Silva, tenho 21 anos, sou do interior de São Paulo. A
     width="30px" 
     style="padding-right: 10px;" 
     src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/terraform/terraform-original.svg"
-/>
+/>  -->
 
 <img 
     align="left" 
@@ -77,6 +77,7 @@ Me chamo Ryan Ferreira da Silva, tenho 21 anos, sou do interior de São Paulo. A
     src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/bootstrap/bootstrap-original.svg" 
 />
 
+<!--
 <img 
     align="left" 
     alt="GoLang" 
@@ -84,7 +85,7 @@ Me chamo Ryan Ferreira da Silva, tenho 21 anos, sou do interior de São Paulo. A
     width="30px" 
     style="padding-right: 10px;" 
     src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/go/go-original.svg" 
-/>
+/> -->
 <img 
     align="left" 
     alt="MySql" 
