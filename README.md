@@ -3,11 +3,7 @@
 
 Me chamo Ryan Ferreira da Silva, tenho 21 anos, sou do interior de São Paulo. Atualmente estou cursando Engenharia de Software na Uninter. Desde cedo sou um apaixonado em tecnologia e jogos, no momento estou a procura do primeiro emprego como DEV.
 🚀 Portfólio:
-<a href="https://github.com/Ryanzinho012"
-   target="_blank"
-   rel="noopener noreferrer">
 👉 https://portifolioryan.f4ntas7.workers.dev/
-
 
 📫 Contato:
 
