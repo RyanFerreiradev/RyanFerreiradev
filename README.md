@@ -2,9 +2,9 @@
 <h2 align="center"> </h2>
 
 <p align="center">
-  <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&duration=2900&pause=1200&color=C409B6&background=FFFFFF00&vCenter=true&width=435&lines=Backend+Developer%7C+Java+%26+SpringBoot;Construindo+Projetos+%26+Estudando!!" alt="Typing SVG" width="600"/>
-  </a>
+<a href="https://git.io/typing-svg">
+  <img src="https://readme-typing-svg.demolab.com?font=JetBrains&duration=2900&pause=120&color=C409B6&background=FFFFFF00&vCenter=true&width=435&lines=Backend+Developer+%7C+Java+%26+SpringBoot;Transformando+ideias+em+c%C3%B3digos!" alt="Typing SVG" width="600"/>
+</a>
 </p>
 <p align="center">
   <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white" />
@@ -27,7 +27,7 @@
 
 ## 📫 Contato
 
-- Ryanferreira.dev@outlook.com
+-  Ryanferreira.dev@outlook.com
 -  www.linkedin.com/in/ryanferreiradev
 
 ---
