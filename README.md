@@ -1,21 +1,8 @@
 
- <h1 align="center"> ## Ryan Ferreira
- </h1>
-
-
-<table align="center" width="100%">
-<tr>
-<td><hr></td>
-<td align="center" nowrap>
+## Ryan Ferreira
 
 ## Back-End
 
-</td>
-<td><hr></td>
-</tr>
-</table>
-
----
 
 # Olá, Bem Vindo(a)! 👋
 
