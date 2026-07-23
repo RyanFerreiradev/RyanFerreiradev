@@ -1,5 +1,6 @@
 
-  ## Ryan Ferreira
+ <h1 align="center"> ## Ryan Ferreira
+ </h1>
 
 
 <h3 align="center" style="margin-top:0;">
