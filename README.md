@@ -1,5 +1,5 @@
-<h2 align="center" class="heading-element" dir="auto">
-  **`Desenvoledor BackEnd`**
+<h2 align="center" class="heading-element" dir="auto" <strong>>
+  Ryan Ferreira
 </h2>
 
 # Olá, Bem Vindo(a)! 👋
