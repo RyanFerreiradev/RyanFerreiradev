@@ -1,14 +1,16 @@
-<hr>
+<div align="center">
 
-<h1 align="center" style="font-size:64px; margin-bottom:0;">
-  Ryan Ferreira
-</h1>
+<h1>Ryan Ferreira</h1>
 
-<h3 align="center" style="margin-top:0;">
-  Back-End
-</h3>
+<h2><strong>Back-End</strong></h2>
 
----
+</div>
+
+<div align="center">
+
+<img width="70%" height="1" src="https://via.placeholder.com/700x1/30363d/30363d">
+
+</div>
 
 # Olá, Bem Vindo(a)! 👋
 
@@ -26,55 +28,10 @@
 - Ryanferreira.dev@outlook.com
 - www.linkedin.com/in/ryanferreiradev
 
----
+<div align="center">
+
+<img width="70%" height="1" src="https://via.placeholder.com/700x1/30363d/30363d">
+
+</div>
 
 ### 🤖 Linguagens e Tecnologias
-
-<img 
-    align="left" 
-    alt="Java" 
-    title="Java"
-    width="30px"
-    style="padding-right:10px;"
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/java/java-original-wordmark.svg"
-/>
-
-<img 
-    align="left"
-    alt="Bootstrap"
-    title="Bootstrap"
-    width="30px"
-    style="padding-right:10px;"
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/bootstrap/bootstrap-original.svg"
-/>
-
-<img 
-    align="left"
-    alt="MySQL"
-    title="MySQL"
-    width="30px"
-    style="padding-right:10px;"
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/mysql/mysql-original.svg"
-/>
-
-<img 
-    align="left"
-    alt="Git"
-    title="Git"
-    width="30px"
-    style="padding-right:10px;"
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/git/git-original.svg"
-/>
-
-<img 
-    align="left"
-    alt="Linux"
-    title="Linux"
-    width="30px"
-    style="padding-right:10px;"
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/linux/linux-original.svg"
-/>
-
-<br><br>
-
-<hr>
