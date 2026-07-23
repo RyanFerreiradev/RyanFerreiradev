@@ -1,4 +1,4 @@
-<hr> </hr>
+<hr style="height: 1px; border: none; background-color: black;">
 
 <h2 align="center" class="heading-element" dir="auto" <strong>
   Ryan Ferreira
