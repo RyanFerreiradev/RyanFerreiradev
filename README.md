@@ -1,8 +1,6 @@
 
-## Ryan Ferreira
-
-## Back-End
-
+<h2 align="center">Ryan Ferreira</h2>
+<h2 align="center">Back-End</h2>
 
 # Olá, Bem Vindo(a)! 👋
 
