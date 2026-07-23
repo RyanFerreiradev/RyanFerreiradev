@@ -1,8 +1,6 @@
-<p align="center">
-──────────────────────────────────────────────────────────────
-</p>
+
 <h1 align="center" style="font-size:64px; margin-bottom:0;">
-  Ryan Ferreira
+  ## Ryan Ferreira
 </h1>
 
 <h3 align="center" style="margin-top:0;">
