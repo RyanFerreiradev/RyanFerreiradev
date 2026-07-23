@@ -1,4 +1,4 @@
-<h2 align="center" class="heading-element" dir="auto" <strong>>
+<h2 align="center" class="heading-element" dir="auto" <strong>
   Ryan Ferreira
 </h2>
 
