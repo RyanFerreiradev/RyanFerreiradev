@@ -1,8 +1,11 @@
 <img width="1500" height="500" alt="Aesthetic Twitter Header" src="https://github.com/user-attachments/assets/a71102fc-1461-427b-9c14-afcb35d069cf"/> <br>
 <h2 align="center"> </h2>
 
-<h1 align="center" weight="3000" width="1000">    Back-End Developer
-    
+<p align="center">
+  <a href="https://git.io/typing-svg">
+      <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&duration=2900&pause=1000&color=A328FF&background=FFFFFF00&vCenter=true&width=435&lines=BackEnd+Devloper+%7C+Java+%26+SpringBoot;Construindo+Projetos+%26+Estudando!!" alt="Typing SVG" width="600"/>
+  </a>
+</p>
 <p align="center">
   <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white" />
   <img src="https://img.shields.io/badge/IntelliJ-000000?style=for-the-badge&logo=intellijidea&logoColor=white" />
@@ -77,7 +80,7 @@
 />
 
 <br><br>
-
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:1a1a2e,50:16213e,100:0f3460&height=100&section=footer" width="100%" />
 <hr>
 
 
