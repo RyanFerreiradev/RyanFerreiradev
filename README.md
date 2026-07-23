@@ -24,8 +24,6 @@
 <a/>
 
 
-<hr> </hr>
-
 
 ### 🤖 Linguagens e Tecnologias
 
