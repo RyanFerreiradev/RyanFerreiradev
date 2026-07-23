@@ -1,13 +1,22 @@
+<img width="1500" height="500" alt="Aesthetic Twitter Header" src="https://github.com/user-attachments/assets/a71102fc-1461-427b-9c14-afcb35d069cf"/> <br>
+<h2 align="center"> </h2>
 
-<h2 align="center">Ryan Ferreira</h2>
-<h2 align="center">Back-End</h2>
+<h1 align="center" weight="3000" width="1000">    Back-End Developer
+    
+<p align="center">
+  <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white" />
+  <img src="https://img.shields.io/badge/IntelliJ-000000?style=for-the-badge&logo=intellijidea&logoColor=white" />
+    <img width="88" height="28" alt="sql" src="https://github.com/user-attachments/assets/17c10100-d2c3-4f17-9577-9e83bdfbdbc0" />
+    <img width="127" height="28" alt="bootstrap" src="https://github.com/user-attachments/assets/2d4a1fae-3a52-4fbd-a0c8-764cf8e1bb88" />
+</p>
+</h2>
 
-# Olá, Bem Vindo(a)! 👋
+# 👋 Olá, Bem vindo(a)!
+👨‍💻 Desenvolvedor Back-End em início de jornada  <br>
+🚀 Explorando Java, APIs, bancos de dados e desenvolvimento de sistemas  <br>
+📈 Sempre aprendendo e evoluindo na área de tecnologia  <br>
+⚙️ Engenharia de Software 3/10 <br>
 
-👨‍💻 Desenvolvedor Back-End em início de jornada  
-🚀 Explorando Java, APIs, bancos de dados e desenvolvimento de sistemas  
-📈 Sempre aprendendo e evoluindo na área de tecnologia  
-⚙️ Engenharia de Software 3/10
 
 ## 🚀 Portfólio
 
@@ -16,7 +25,7 @@
 ## 📫 Contato
 
 - Ryanferreira.dev@outlook.com
-- www.linkedin.com/in/ryanferreiradev
+-  www.linkedin.com/in/ryanferreiradev
 
 ---
 
@@ -70,3 +79,10 @@
 <br><br>
 
 <hr>
+
+
+
+
+
+
+
