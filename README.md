@@ -80,7 +80,7 @@
 />
 
 <br><br>
-<img src="https://capsule-render.vercel.app/api?type=waving&height=300&color=7604e0&section=footer" width="100%" />
+<img src="https://capsule-render.vercel.app/api?type=waving&height=100&color=7604e0&section=footer" width="100%" />
 <hr>
 
 
